@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jii:home|Door43 (jii)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jii|d43-jii repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jii/archive/master.zip|d43-jii.zip]]
+
+**Recent Changes**
+{{changes>ns = jii}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jii|Ethnologue data]]
+
